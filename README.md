@@ -1,5 +1,5 @@
-# cloudbox_mod-firefly-iii
-Cloud Commander ansible role for Cloudbox based on cloudbox_mod template
+# cloudbox_cloudcmd 
+**Cloud Commander** ansible role for Cloudbox based on cloudbox_mod template
 
 - [Cloud Commander](https://github.com/coderaiser/cloudcmd) - Cloud Commander file manager for the web with console and editor
 - [Cloudbox](https://github.com/Cloudbox/Cloudbox) - Automated Cloud Media Server
